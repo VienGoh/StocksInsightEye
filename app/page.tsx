@@ -333,8 +333,7 @@ function StockChart({
                   "support"
                     ? "#10b981"
                     : "#f43f5e",
-
-                lineStyle: 2,
+                
                 lineWidth: 1,
               }
             );
